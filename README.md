@@ -1,8 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>A Real-Time Sign Language Translator using Deep Learning (CNNs & ResNet).<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, especially in Computer Vision, NLP, and Healthcare Analytics.<br><br>🤝 I’m looking for help with:<br>Improving model accuracy and real-time deployment strategies using TensorFlow, PyTorch, and OpenCV.<br><br>🌱 I’m currently learning:<br>Advanced Deep Learning architectures, Unsupervised Learning techniques, and model optimization strategies.<br><br>💬 Ask me about:<br>Machine Learning, Data Analysis, CNNs, ResNet, TensorFlow, PyTorch, and real-world project deployment.<br><br>⚡ Fun fact:<br>I enjoy breaking down complex AI models into simple, visual explanations — and I believe learning by building is the best way to master anything!<br><br>
-
-
-# 💫 About Me:
 🔭 I’m currently working on:<br>A Real-Time Sign Language Translator using Deep Learning (CNNs & ResNet).<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, especially in Computer Vision, NLP, and Healthcare Analytics.<br><br>🤝 I’m looking for help with:<br>Improving model accuracy and real-time deployment strategies using TensorFlow, PyTorch, and OpenCV.<br><br>🌱 I’m currently learning:<br>Advanced Deep Learning architectures, Unsupervised Learning techniques, and model optimization strategies.<br><br>💬 Ask me about:<br>Machine Learning, Data Analysis, CNNs, ResNet, TensorFlow, PyTorch, and real-world project deployment.<br><br>⚡ Fun fact:<br>I enjoy breaking down complex AI models into simple, visual explanations — and I believe learning by building is the best way to master anything!
 
 # 📊 GitHub Stats:
